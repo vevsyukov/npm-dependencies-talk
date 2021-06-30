@@ -14,6 +14,7 @@ highlighter: shiki
 #   Presentation slides for developers.
 
 #   Learn more at [Sli.dev](https://sli.dev)
+download: true
 ---
 
 # Short intro to npm dependencies

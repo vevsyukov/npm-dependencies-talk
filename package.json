@@ -9,7 +9,8 @@
   "dependencies": {
     "@slidev/cli": "^0.13.13",
     "@slidev/theme-default": "*",
-    "@slidev/theme-seriph": "*"
+    "@slidev/theme-seriph": "*",
+    "playwright-chromium": "^1.12.3"
   },
   "name": "npm-deps-talk"
 }
