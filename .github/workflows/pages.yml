@@ -11,11 +11,11 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-        
+
       - name: Install and Build
         run: |
           npm ci
-          npm run build
+          npm run build-for-pages
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.4

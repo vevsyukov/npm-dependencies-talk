@@ -3,6 +3,7 @@
   "scripts": {
     "dev": "slidev --open",
     "build": "slidev build",
+    "build-for-pages": "slidev build --base /npm-dependencies-talk/",
     "export": "slidev export"
   },
   "dependencies": {
